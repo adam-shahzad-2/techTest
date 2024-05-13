@@ -1,0 +1,10 @@
+[error] /Users/adamshahzad/projects/techTest/project/AppDependencies.scala:3:29: value %% is not a member of String
+[error]   "org.scalatest"           %% "scalatest"               % "3.2.10",
+[error]                             ^
+[error] /Users/adamshahzad/projects/techTest/project/AppDependencies.scala:4:29: value %% is not a member of String
+[error]   "org.scalatestplus"       %% "scalacheck-1-15"         % "3.2.10.0",
+[error]                             ^
+[error] /Users/adamshahzad/projects/techTest/project/AppDependencies.scala:5:29: value %% is not a member of String
+[error]   "org.scalatestplus"       %% "mockito-3-4"             % "3.2.10.0"
+[error]                             ^
+[error] three errors found
